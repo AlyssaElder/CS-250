@@ -1,1 +1,6 @@
 # CS-250
+Implementing user needs is crucial to creating a perfect product for the customer. To begin the process of creating user stories, you first must meet with a group of end users. In this meeting you should ask questions that encourage in-depth responses regarding their needs in your product. As a Product Owner or Developer, there are so many features, big or small, that you might not think of adding initially. Getting the perspective of actual users can help ensure no features or functions are missing or underdeveloped. Documenting User Stories and Test cases will make the process of developing the features simple and efficient. 
+
+Many Agile processes such as iterative sprints, constant improvements, and encouraging change will ensure that the final product exceeds the customer’s expectations. Scrum-Agile principles like customer collaboration are also important to ensure that the Product Backlog and other documents are always aligned with the current needs and expectations of the customer. 
+
+As part of a software development team, you should strive to be proud and responsible for your work. You should be self-organized and be able to respond quickly to change as it happens often. Communication is one of the most important skills to have within the team. 
